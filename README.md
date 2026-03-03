@@ -4,7 +4,7 @@
 [Aquí va la descripción de qué problemática resuelve]
 
 ## Integrantes
-- [Nombre completo - Carnet]
+- Josué Fernando Mata Hernández-MH24055
 - 
 - 
 - 
